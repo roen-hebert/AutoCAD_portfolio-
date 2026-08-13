@@ -1,10 +1,8 @@
-# AutoCAD Backup and Temporary Files
 *.bak
 *.sv$
 *.ac$
 *.dwl
 *.dwl2
 
-# Operating System Files
 .DS_Store
 Thumbs.db
